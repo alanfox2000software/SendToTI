@@ -1,5 +1,5 @@
 # SendToTI
-![SendToTI Logo](https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/logo.png)
+<img src="https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/logo.png width="250" height="250"/>
 </p>
 
 Run any program or open any folder with **TrustedInstaller** privileges using the "Send to" context menu.
@@ -18,7 +18,7 @@ After installation, two entries will appear in the right-click "Send to" context
 - **SendToTI** – Runs/elevates the selected item with TrustedInstaller privileges.
 - **SendToTI Powershell Script** – Dedicated option for PowerShell scripts (.ps1 files).
 
-![Context Menu Example](https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/contextmenu.png)
+<img src="https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/contextmenu.png"/>
 
 ## Important Warning
 Running processes or opening Explorer as TrustedInstaller grants the highest level of system privileges in Windows. This can allow modifications to protected system files and may cause irreversible damage if misused (e.g., breaking Windows updates or stability). Use with extreme caution, only when necessary, and always back up important data first.
