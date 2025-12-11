@@ -20,5 +20,10 @@ After installation, two entries will appear in the right-click "Send to" context
 
 <img src="https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/contextmenu.png"/>
 
+## Notes
+- This tool relies on `wsudo.exe` to acquire TrustedInstaller privileges.
+- By default, `SendToTI.exe` looks for `wsudo.exe` in the same directory.
+- If `wsudo.exe` is deleted from the SendToTI folder, `SendToTI.exe` will automatically search for `wsudo.exe` in directories listed in the system's PATH environment variable.
+
 ## Important Warning
 Running processes or opening Explorer as TrustedInstaller grants the highest level of system privileges in Windows. This can allow modifications to protected system files and may cause irreversible damage if misused (e.g., breaking Windows updates or stability). Use with extreme caution, only when necessary, and always back up important data first.
