@@ -1,5 +1,5 @@
 # SendToTI
-<img src="https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/logo.png width="250" height="250"/>
+<img src="https://raw.githubusercontent.com/alanfox2000software/SendToTI/refs/heads/main/.github/images/logo.png" width="250" height="250"/>
 </p>
 
 Run any program or open any folder with **TrustedInstaller** privileges using the "Send to" context menu.
